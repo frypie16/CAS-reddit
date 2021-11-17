@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!-- word cloud svg -->
+    <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1024" height="1024" viewBox="0 0 1024 1024" xml:space="preserve">
 <desc>Created @ WordClouds.com</desc>
@@ -151,9 +152,6 @@
 <g transform="matrix(0 1 -1 0 927 624)" style=""  >
 		<text xml:space="preserve" font-family="Helvetica" font-size="40.856843203270515" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(202,193,143); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-62.46" y="12.83" >human</tspan></text>
 </g>
-<g transform="matrix(1 0 0 1 518 532)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="131.99903188748934" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(174,165,165); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-528" y="41.47" >happened</tspan></text>
-</g>
 <g transform="matrix(0 1 -1 0 95 619)" style=""  >
 		<text xml:space="preserve" font-family="Raleway" font-size="20.428421601635257" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(180,178,149); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-31.65" y="6.42" >history</tspan></text>
 </g>
@@ -169,17 +167,11 @@
 <g transform="matrix(0 1 -1 0 640 488)" style=""  >
 		<text xml:space="preserve" font-family="Helvetica" font-size="25.14267274047416" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(202,193,143); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.76" y="7.9" >post</tspan></text>
 </g>
-<g transform="matrix(1 0 0 1 422 519)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="100.57069096189664" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(115,135,160); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-402.28" y="31.59" >thoughts</tspan></text>
-</g>
 <g transform="matrix(0 1 -1 0 283 531)" style=""  >
 		<text xml:space="preserve" font-family="Helvetica" font-size="28.28550683303343" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(180,178,149); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-22.01" y="8.89" >say</tspan></text>
 </g>
 <g transform="matrix(1 0 0 1 693 752)" style=""  >
 		<text xml:space="preserve" font-family="Raleway" font-size="28.28550683303343" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(202,193,143); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-24.59" y="8.89" >real</tspan></text>
-</g>
-<g transform="matrix(1 0 0 1 496 364)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="125.7133637023708" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(159,185,206); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-502.85" y="39.49" >question</tspan></text>
 </g>
 <g transform="matrix(1 0 0 1 204 768)" style=""  >
 		<text xml:space="preserve" font-family="Helvetica" font-size="37.714009110711245" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(202,142,97); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-53.45" y="11.85" >dream</tspan></text>
@@ -187,14 +179,8 @@
 <g transform="matrix(1 0 0 1 683 918)" style=""  >
 		<text xml:space="preserve" font-family="Helvetica" font-size="37.714009110711245" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(174,165,165); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-49.26" y="11.85" >watch</tspan></text>
 </g>
-<g transform="matrix(0 1 -1 0 503 561)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="37.714009110711245" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(202,193,143); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-132" y="11.85" >youtube</tspan></text>
-</g>
 <g transform="matrix(1 0 0 1 612 83)" style=""  >
 		<text xml:space="preserve" font-family="Raleway" font-size="34.57117501815197" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(192,134,113); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-57.33" y="10.86" >movies</tspan></text>
-</g>
-<g transform="matrix(0 1 -1 0 453 501)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="131.99903188748934" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(180,178,149); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-462" y="41.47" >parents</tspan></text>
 </g>
 <g transform="matrix(1 0 0 1 561 360)" style=""  >
 		<text xml:space="preserve" font-family="Raleway" font-size="18.857004555355623" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(159,185,206); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-27.76" y="5.92" >wrong</tspan></text>
@@ -202,20 +188,8 @@
 <g transform="matrix(1 0 0 1 451 364)" style=""  >
 		<text xml:space="preserve" font-family="Helvetica" font-size="21.999838647914892" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(192,134,113); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-21.41" y="6.91" >hate</tspan></text>
 </g>
-<g transform="matrix(1 0 0 1 493 611)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="12.57133637023708" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(159,185,206); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-44" y="3.95" >popular</tspan></text>
-</g>
-<g transform="matrix(1 0 0 1 384 435)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="87.99935459165957" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(174,165,165); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-264" y="27.64" >happen</tspan></text>
-</g>
-<g transform="matrix(1 0 0 1 626 550)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="50.28534548094832" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(202,142,97); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-176" y="15.8" >looking</tspan></text>
-</g>
 <g transform="matrix(1 0 0 1 719 476)" style=""  >
 		<text xml:space="preserve" font-family="Helvetica" font-size="20.428421601635257" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(115,135,160); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-22.14" y="6.42" >word</tspan></text>
-</g>
-<g transform="matrix(0 1 -1 0 527 464)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="43.999677295829784" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(159,185,206); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-154" y="13.82" >partner</tspan></text>
 </g>
 <g transform="matrix(1 0 0 1 318 907)" style=""  >
 		<text xml:space="preserve" font-family="Raleway" font-size="40.856843203270515" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(174,165,165); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-41.29" y="12.83" >stop</tspan></text>
@@ -229,128 +203,41 @@
 <g transform="matrix(0 1 -1 0 561 548)" style=""  >
 		<text xml:space="preserve" font-family="Raleway" font-size="12.57133637023708" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(202,193,143); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-25.48" y="3.95" >celebrity</tspan></text>
 </g>
-<g transform="matrix(1 0 0 1 543 418)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="43.999677295829784" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(192,134,113); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-110" y="13.82" >games</tspan></text>
-</g>
-<g transform="matrix(0 1 -1 0 601 500)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="138.28470007260788" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(202,193,143); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-345.71" y="43.44" >women</tspan></text>
-</g>
 <g transform="matrix(1 0 0 1 715 403)" style=""  >
 		<text xml:space="preserve" font-family="Helvetica" font-size="17.285587509075985" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(159,185,206); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-20.65" y="5.43" >weird</tspan></text>
 </g>
 <g transform="matrix(0 1 -1 0 503 642)" style=""  >
 		<text xml:space="preserve" font-family="Raleway" font-size="17.285587509075985" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(115,135,160); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.2" y="5.43" >home</tspan></text>
 </g>
-<g transform="matrix(0 1 -1 0 616 572)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="100.57069096189664" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(180,178,149); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-301.71" y="31.59" >family</tspan></text>
-</g>
-<g transform="matrix(0 1 -1 0 455 455)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="62.8566818511854" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(202,142,97); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-188.57" y="19.75" >normal</tspan></text>
-</g>
-<g transform="matrix(1 0 0 1 570 651)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="37.714009110711245" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(115,135,160); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-94.29" y="11.85" >happy</tspan></text>
-</g>
-<g transform="matrix(0 1 -1 0 356 475)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="81.71368640654103" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(159,185,206); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-245.14" y="25.67" >reason</tspan></text>
-</g>
 <g transform="matrix(1 0 0 1 518 813)" style=""  >
 		<text xml:space="preserve" font-family="Helvetica" font-size="25.14267274047416" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(202,142,97); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-48.24" y="7.9" >changed</tspan></text>
-</g>
-<g transform="matrix(0 1 -1 0 528 501)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="144.57036825772641" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(180,178,149); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-433.71" y="45.42" >school</tspan></text>
-</g>
-<g transform="matrix(1 0 0 1 424 561)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="131.99903188748934" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(202,142,97); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-396" y="41.47" >better</tspan></text>
-</g>
-<g transform="matrix(0 1 -1 0 562 587)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="25.14267274047416" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(180,178,149); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-62.86" y="7.9" >power</tspan></text>
 </g>
 <g transform="matrix(0 1 -1 0 503 722)" style=""  >
 		<text xml:space="preserve" font-family="Raleway" font-size="15.71417046279635" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(174,165,165); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-22.71" y="4.94" >media</tspan></text>
 </g>
-<g transform="matrix(1 0 0 1 415 488)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="62.8566818511854" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(159,185,206); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-188.57" y="19.75" >future</tspan></text>
-</g>
 <g transform="matrix(0 1 -1 0 559 737)" style=""  >
 		<text xml:space="preserve" font-family="Raleway" font-size="15.71417046279635" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(202,142,97); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-22.69" y="4.94" >karma</tspan></text>
-</g>
-<g transform="matrix(1 0 0 1 589 434)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="31.4283409255927" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(174,165,165); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-78.57" y="9.87" >phone</tspan></text>
-</g>
-<g transform="matrix(1 0 0 1 473 571)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="94.2850227767781" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(202,193,143); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-235.71" y="29.62" >music</tspan></text>
 </g>
 <g transform="matrix(1 0 0 1 836 810)" style=""  >
 		<text xml:space="preserve" font-family="Helvetica" font-size="31.4283409255927" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(192,134,113); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-40.18" y="9.87" >social</tspan></text>
 </g>
-<g transform="matrix(0 1 -1 0 402 561)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="87.99935459165957" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(202,142,97); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-220" y="27.64" >place</tspan></text>
-</g>
-<g transform="matrix(0 1 -1 0 480 488)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="150.85603644284498" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(202,142,97); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-377.14" y="47.39" >movie</tspan></text>
-</g>
-<g transform="matrix(0 1 -1 0 352 526)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="81.71368640654103" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(180,178,149); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-204.28" y="25.67" >death</tspan></text>
-</g>
 <g transform="matrix(1 0 0 1 382 507)" style=""  >
 		<text xml:space="preserve" font-family="Press Start 2P" font-size="6.28566818511854" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(192,134,113); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.71" y="1.97" >sleep</tspan></text>
-</g>
-<g transform="matrix(1 0 0 1 567 489)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="37.714009110711245" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(180,178,149); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-94.29" y="11.85" >great</tspan></text>
-</g>
-<g transform="matrix(1 0 0 1 564 632)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="150.85603644284498" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(180,178,149); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-377.14" y="47.39" >world</tspan></text>
-</g>
-<g transform="matrix(0 1 -1 0 671 451)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="113.14202733213372" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(202,193,143); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-226.28" y="35.54" >good</tspan></text>
-</g>
-<g transform="matrix(0 1 -1 0 499 591)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="81.71368640654103" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(192,134,113); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-204.28" y="25.67" >crack</tspan></text>
 </g>
 <g transform="matrix(0 1 -1 0 345 481)" style=""  >
 		<text xml:space="preserve" font-family="Raleway" font-size="15.71417046279635" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(202,193,143); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-18.86" y="4.94" >away</tspan></text>
 </g>
-<g transform="matrix(1 0 0 1 416 459)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="31.4283409255927" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(202,142,97); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-78.57" y="9.87" >point</tspan></text>
-</g>
-<g transform="matrix(0 1 -1 0 499 393)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="113.14202733213372" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(174,165,165); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-282.86" y="35.54" >worst</tspan></text>
-</g>
 <g transform="matrix(0 1 -1 0 104 701)" style=""  >
 		<text xml:space="preserve" font-family="Helvetica" font-size="31.4283409255927" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(115,135,160); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-35.82" y="9.87" >earth</tspan></text>
-</g>
-<g transform="matrix(1 0 0 1 589 592)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="62.8566818511854" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(192,134,113); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-157.14" y="19.75" >story</tspan></text>
-</g>
-<g transform="matrix(0 1 -1 0 503 342)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="144.57036825772641" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(159,185,206); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-289.14" y="45.42" >song</tspan></text>
 </g>
 <g transform="matrix(0 1 -1 0 216 851)" style=""  >
 		<text xml:space="preserve" font-family="Raleway" font-size="34.57117501815197" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(180,178,149); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-32.03" y="10.86" >kids</tspan></text>
 </g>
-<g transform="matrix(1 0 0 1 534 621)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="50.28534548094832" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(202,193,143); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-100.57" y="15.8" >mean</tspan></text>
-</g>
 <g transform="matrix(0 1 -1 0 913 135)" style=""  >
 		<text xml:space="preserve" font-family="Helvetica" font-size="18.857004555355623" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(180,178,149); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-43.49" y="5.92" >americans</tspan></text>
 </g>
-<g transform="matrix(0 1 -1 0 566 429)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="56.57101366606686" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(180,178,149); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-113.14" y="17.77" >date</tspan></text>
-</g>
-<g transform="matrix(0 1 -1 0 528 642)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="150.85603644284498" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(174,165,165); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-301.71" y="47.39" >time</tspan></text>
-</g>
-<g transform="matrix(1 0 0 1 589 630)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="50.28534548094832" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(174,165,165); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-100.57" y="15.8" >past</tspan></text>
-</g>
 <g transform="matrix(1 0 0 1 315 837)" style=""  >
 		<text xml:space="preserve" font-family="Helvetica" font-size="18.857004555355623" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(202,193,143); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-40.36" y="5.92" >questions</tspan></text>
-</g>
-<g transform="matrix(1 0 0 1 472 656)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="81.71368640654103" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(180,178,149); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-204.28" y="25.67" >start</tspan></text>
-</g>
-<g transform="matrix(0 1 -1 0 605 454)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="119.42769551725226" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(115,135,160); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-179.14" y="37.52" >men</tspan></text>
 </g>
 <g transform="matrix(0 1 -1 0 911 740)" style=""  >
 		<text xml:space="preserve" font-family="Raleway" font-size="25.14267274047416" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(115,135,160); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-35.73" y="7.9" >house</tspan></text>
@@ -358,32 +245,14 @@
 <g transform="matrix(0 1 -1 0 119 438)" style=""  >
 		<text xml:space="preserve" font-family="Raleway" font-size="25.14267274047416" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(180,178,149); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-29.32" y="7.9" >night</tspan></text>
 </g>
-<g transform="matrix(1 0 0 1 528 602)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="144.57036825772641" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(192,134,113); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-216.86" y="45.42" >way</tspan></text>
-</g>
 <g transform="matrix(1 0 0 1 181 737)" style=""  >
 		<text xml:space="preserve" font-family="Raleway" font-size="28.28550683303343" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(159,185,206); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-27.72" y="8.89" >play</tspan></text>
-</g>
-<g transform="matrix(1 0 0 1 466 635)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="43.999677295829784" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(180,178,149); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-88" y="13.82" >fact</tspan></text>
-</g>
-<g transform="matrix(0 1 -1 0 454 395)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="69.14235003630394" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(202,193,143); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-103.71" y="21.72" >age</tspan></text>
-</g>
-<g transform="matrix(1 0 0 1 634 408)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="62.8566818511854" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(180,178,149); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-125.71" y="19.75" >true</tspan></text>
-</g>
-<g transform="matrix(0 1 -1 0 512 353)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="113.14202733213372" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(180,178,149); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-226.28" y="35.54" >free</tspan></text>
 </g>
 <g transform="matrix(0 1 -1 0 619 681)" style=""  >
 		<text xml:space="preserve" font-family="Helvetica" font-size="14.142753416516715" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(202,193,143); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-13.37" y="4.44" >deal</tspan></text>
 </g>
 <g transform="matrix(0 1 -1 0 722 525)" style=""  >
 		<text xml:space="preserve" font-family="Raleway" font-size="28.28550683303343" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(174,165,165); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-12.28" y="8.89" >tv</tspan></text>
-</g>
-<g transform="matrix(1 0 0 1 415 538)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="56.57101366606686" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(115,135,160); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-84.86" y="17.77" >man</tspan></text>
 </g>
 <g transform="matrix(0 1 -1 0 303 532)" style=""  >
 		<text xml:space="preserve" font-family="Helvetica" font-size="15.71417046279635" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(180,178,149); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-12.67" y="4.94" >buy</tspan></text>
@@ -397,17 +266,8 @@
 <g transform="matrix(1 0 0 1 698 102)" style=""  >
 		<text xml:space="preserve" font-family="Raleway" font-size="25.14267274047416" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(192,134,113); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-29.38" y="7.9" >book</tspan></text>
 </g>
-<g transform="matrix(0 1 -1 0 596 376)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="138.28470007260788" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(115,135,160); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-207.43" y="43.44" >job</tspan></text>
-</g>
 <g transform="matrix(1 0 0 1 76 575)" style=""  >
 		<text xml:space="preserve" font-family="Raleway" font-size="21.999838647914892" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(174,165,165); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-26.86" y="6.91" >living</tspan></text>
-</g>
-<g transform="matrix(0 1 -1 0 391 424)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="106.85635914701518" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(192,134,113); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-160.28" y="33.57" >ask</tspan></text>
-</g>
-<g transform="matrix(1 0 0 1 484 619)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="119.42769551725226" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(192,134,113); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-179.14" y="37.52" >new</tspan></text>
 </g>
 <g transform="matrix(0 1 -1 0 304 481)" style=""  >
 		<text xml:space="preserve" font-family="Helvetica" font-size="10.999919323957446" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(180,178,149); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-13.15" y="3.46" >given</tspan></text>
@@ -418,26 +278,11 @@
 <g transform="matrix(0 1 -1 0 374 877)" style=""  >
 		<text xml:space="preserve" font-family="Helvetica" font-size="28.28550683303343" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(174,165,165); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.6" y="8.89" >end</tspan></text>
 </g>
-<g transform="matrix(1 0 0 1 378 446)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="113.14202733213372" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(159,185,206); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-169.71" y="35.54" >die</tspan></text>
-</g>
-<g transform="matrix(0 1 -1 0 672 499)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="69.14235003630394" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(174,165,165); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-103.71" y="21.72" >eat</tspan></text>
-</g>
-<g transform="matrix(1 0 0 1 561 623)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="75.42801822142249" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(115,135,160); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-113.14" y="23.69" >kid</tspan></text>
-</g>
 <g transform="matrix(0 1 -1 0 320 405)" style=""  >
 		<text xml:space="preserve" font-family="Raleway" font-size="14.142753416516715" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(180,178,149); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-10.32" y="4.44" >girl</tspan></text>
 </g>
 <g transform="matrix(0 1 -1 0 264 543)" style=""  >
 		<text xml:space="preserve" font-family="Raleway" font-size="15.71417046279635" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(115,135,160); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-30.42" y="4.94" >possible</tspan></text>
-</g>
-<g transform="matrix(1 0 0 1 499 673)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="119.42769551725226" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(180,178,149); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-179.14" y="37.52" >old</tspan></text>
-</g>
-<g transform="matrix(1 0 0 1 596 612)" style=""  >
-		<text xml:space="preserve" font-family="Press Start 2P" font-size="113.14202733213372" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(202,142,97); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-169.71" y="35.54" >use</tspan></text>
 </g>
 <g transform="matrix(0 1 -1 0 981 538)" style=""  >
 		<text xml:space="preserve" font-family="Helvetica" font-size="25.14267274047416" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(192,134,113); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.06" y="7.9" >kind</tspan></text>
